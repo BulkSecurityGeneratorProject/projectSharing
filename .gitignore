@@ -13,3 +13,9 @@ buildNumber.properties
 node_modules/
 
 project-sharing\.iml
+
+\.settings/
+
+\.classpath
+
+\.project
